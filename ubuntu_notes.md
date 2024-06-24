@@ -9,5 +9,11 @@ Realizaré las anotaciones por fecha, trataré de citar todas las fuentes posibl
 
 ### Visual Studio Code
 
-Desde la tienda de Ubuntu realizo la instalación, sin mbargo, también es posible hacerla desde la terminal con `sudo apt install code`
+Realicé la instalación desde la tienda de aplicaciones Snap. Tuve dificultades para iniciar la aplicación, se detenía cada vez que la abría y tenía que forzar cerrarla. Intenté la instalación con el paquete para Debian que ofrece VS Code en su web con el comando `sudo apt install ./<paquete>.deb` y tuve los mismos resultados. Reinicié mi máquina para que la aplicación pueda ejecutarse correctamente.
+
+Luego de realizar la instalación seguí los pasos básicos iniciales que me inclucaba la guía de VS Code. Instalé las extensiones para Java, Python y Markdown.
+
+Me hacía falta una extensión de previsualización de Markdown, por lo que instalé `Markdown Preview Enhanced`. En las notas de VS Code escribo los comandos que voy aprendiendo.
+
+
 
